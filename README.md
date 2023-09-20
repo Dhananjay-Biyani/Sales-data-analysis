@@ -1,6 +1,6 @@
 # Sales Analysis of Electronic Data
 
-![Electronic Data Analysis](images/electronic_data.jpg)
+<!-- ![Electronic Data Analysis](images/electronic_data.jpg) -->
 
 Welcome to the "Sales Analysis of Electronic Data" project! This repository contains data, code, and visualizations related to the analysis of electronic sales data. I've used Jupyter Notebook to perform the analysis and generate various plots and insights.
 
